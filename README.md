@@ -1,12 +1,13 @@
-# **Full Stack University Project: To-Do App with Task Management System**
+# **Full Stack University Project: To-Do App with MERN STACK**
 
-### Project Code: TDA-MERN-02
+### Project Code: DLBCSPJWD01
 
 **Tech Stack:**  
 React, Redux Toolkit, TailwindCSS, MongoDB, Express.js, Node.js, Zod, JWT, JavaScript, HTML5, CSS3
 
 ---
 
+![image](https://github.com/user-attachments/assets/ca0e4a90-1cb1-461f-8293-04c6ec337fc7)
 
 
 
