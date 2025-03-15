@@ -7,7 +7,8 @@ React, Redux Toolkit, TailwindCSS, MongoDB, Express.js, Node.js, Zod, JWT, JavaS
 
 ---
 
-![image](https://github.com/user-attachments/assets/ca0e4a90-1cb1-461f-8293-04c6ec337fc7)
+![image](https://github.com/user-attachments/assets/5bb3c394-815e-4f9c-943c-9418dc2cc061)
+
 
 
 
